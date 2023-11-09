@@ -1,0 +1,5 @@
+﻿  Sockets.cpp
+C:\Users\user\Desktop\Coding\cpp_rep\Sockets\Sockets\Sockets.cpp(49,20): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\user\Desktop\Coding\cpp_rep\Sockets\Sockets\Sockets.cpp(76,20): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\user\Desktop\Coding\cpp_rep\Sockets\Sockets\Sockets.cpp(119,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Sockets.vcxproj -> C:\Users\user\Desktop\Coding\cpp_rep\Sockets\x64\Debug\Sockets.exe
